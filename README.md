@@ -1,8 +1,8 @@
 # C Programming Assignment 2 – CO2
 
-**Student name:** ____________________  
-**Register number:** ____________________  
-**Compiler/version:** ____________________  
+**Student name:** MARY JEHONNA S  
+**Register number:** 1965260089
+**Compiler/version:** DEV C++ 
 **GitHub repository:** `CSA02-<RegisterNumber>-Assignment2`
 
 ## How to compile and run
